@@ -61,7 +61,3 @@ ls -l | grep linux # ls -l 출력결과 중에서 linux가 들어간 줄만 보�
 ```
 (명령어) --help
 ```
-
-
-
-
